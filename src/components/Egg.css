@@ -1,0 +1,12 @@
+body {
+    background: rgb(179, 123, 50);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.CounterDisplay {
+    text-align: center;
+}
