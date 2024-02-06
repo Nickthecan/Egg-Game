@@ -12,7 +12,7 @@ function Egg() {
     return(
         <>
             <Counter clickCounter={clickCounter} />
-            <img className="egg" id="egg" src="src/photos/egg.png" alt="egg" onClick={handleClick} />
+            <img className="egg" id="egg" src="https://png.pngtree.com/png-clipart/20230307/ourmid/pngtree-isolated-egg-on-transparent-background-png-image_6636091.png" alt="egg" onClick={handleClick} />
         </>
     );
 }
